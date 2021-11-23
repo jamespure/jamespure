@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jamespure
-- 👀 I’m interested in ...
+- 👀 I’m interested in Web development
 - 🌱 I’m currently learning Redux-saga
 - 💞️ I’m looking to collaborate on React apps
 
