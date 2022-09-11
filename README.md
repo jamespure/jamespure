@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jamespure
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning Redux-saga
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on React apps
 
 <!---
